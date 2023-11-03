@@ -13,4 +13,4 @@ app.get("*", (req, res) => {
     res.send("Ruta registrada, hemos localizado la dirección de su computadora");
 })*/
 
-app.listen(3000, () => console.log("El servidor está corriendo"));
+app.listen(3034, () => console.log("El servidor está corriendo"));
